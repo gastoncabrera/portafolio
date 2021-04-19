@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  width: 100%;
+  background-color: var(--color-second);
+}
+:root {
+  --color-primary: #011627;
+  --color-second: #f6f7f8;
+  --color-tertiary: #2ec4b6;
+  --color-fourth: #20a4f3;
+  --color-fifth: #37adf1;
+  --color-sixth: #052841;
+  --color-seventh: #093a5a;
+  --color-eighth: #e9f2f8;
+  --color-nineth: #c1e3f7;
+  --color-tenth: #115d8d;
+}

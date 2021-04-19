@@ -1,0 +1,5 @@
+@media screen and (min-width: 730px) {
+  footer {
+    max-width: 90rem;
+  }
+}
