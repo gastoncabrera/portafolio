@@ -24,7 +24,7 @@
     justify-content: end;
   }
   .proyect-container {
-    grid-template-columns: repeat(auto-fit, minmax(10rem, 40rem));
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 43rem));
   }
   footer {
     max-width: 86rem;

@@ -3,7 +3,8 @@ import "./stylos/Movile.css";
 import "./stylos/Tablet.css";
 import Foto from "./image/fotodeprueba.jpg";
 import Rickandmorty from "./image/rickandmorty.png";
-import Image from "./image/pantalla.png";
+import Batatabit from "./image/Batatabit.png";
+import Google from "./image/GoogleClone.png";
 
 function Portada() {
   return (
@@ -29,8 +30,7 @@ function Portada() {
           <div className="hero__content">
             <h1 className="hero__name">Gaston Cabrera</h1>
             <p className="hero__text">
-              ¡Hola! Soy <span>Desarrollador Frontend </span> de Argentina.
-              <br /> Me encanta crear experiencias web accesibles.
+              ¡Hola! Soy <span> Desarrollador Frontend </span> de Argentina.
             </p>
             <ul className="hero__list">
               <li className="hero__items">
@@ -85,23 +85,42 @@ function Portada() {
               personajes de rick and morty, obtenidas de una API.
             </p>
             <div className="proyect-button">
-              <a>Demo</a>
-              <a href="https://github.com/gastoncabrera/RickandMorty">Code</a>
+              <a href="https://gastoncabrera.github.io/rickandmorty/">Demo</a>
+              <a href="https://github.com/gastoncabrera/rickandmorty">Code</a>
             </div>
           </section>
           <section className="proyect">
-            <img src={Image} alt="imagen del proyecto"></img>
-            <h3 className="proyect-title">Upload-Images</h3>
+            <img src={Batatabit} alt="imagen del proyecto"></img>
+            <h3 className="proyect-title">BatataBit</h3>
             <div className="proyect-framework">
-              <span>REACT</span>
+              <span>HTML</span>
+              <span>CSS</span>
+              <span>JAVASCRIPT</span>
             </div>
             <p className="proyect-description">
-              Es una pagina para subir distintas fotos e imagenes en la cual el
-              administrador podra poner su instagram para que lo contacten.
+              Es una pagina en la cual puedes conocer los precios de las
+              distintas criptomonedas.
             </p>
             <div className="proyect-button">
-              <a>Demo</a>
-              <a href="">Code</a>
+              <a href="https://gastoncabrera.github.io/batatabit/">Demo</a>
+              <a href="https://github.com/gastoncabrera/batatabit">Code</a>
+            </div>
+          </section>
+          <section className="proyect">
+            <img src={Google} alt="imagen del proyecto"></img>
+            <h3 className="proyect-title">Google Clone</h3>
+            <div className="proyect-framework">
+              <span>HTML</span>
+              <span>CSS</span>
+              <span>JAVASCRIPT</span>
+            </div>
+            <p className="proyect-description">
+              Es un clone del buscador mas usado del mundo, una copia de su
+              diseño original.
+            </p>
+            <div className="proyect-button">
+              <a href="https://gastoncabrera.github.io/googleclone/">Demo</a>
+              <a href="https://github.com/gastoncabrera/googleclone">Code</a>
             </div>
           </section>
         </section>
@@ -123,7 +142,7 @@ function Portada() {
                 cabreragastonivan31@gmail.com
               </a>
             </div>
-            <a>
+            <a href="https://www.canva.com/design/DAEcCloZWlw/tAFCOVR_J4mHqA6ssd7DtQ/view?utm_content=DAEcCloZWlw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="black"
