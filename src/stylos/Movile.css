@@ -91,9 +91,9 @@ header {
   margin: 0 auto;
 }
 .hero__image img {
-  max-width: 25rem;
-  max-height: 25rem;
-  border-radius: 40%;
+  max-width: 30rem;
+  max-height: 30rem;
+  border-radius: 8rem;
   justify-content: center;
 }
 /* Imagen contacto */

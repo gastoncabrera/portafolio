@@ -1,7 +1,7 @@
 import "./stylos/Desktop.css";
 import "./stylos/Movile.css";
 import "./stylos/Tablet.css";
-import Foto from "./image/fotodeprueba.jpg";
+import Foto from "./image/fotodeperfil.jpg";
 import Rickandmorty from "./image/rickandmorty.png";
 import Batatabit from "./image/Batatabit.png";
 import Google from "./image/GoogleClone.png";

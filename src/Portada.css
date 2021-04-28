@@ -101,9 +101,10 @@ header {
   color: var(--color-second);
 }
 .hero__image img {
-  max-width: 25rem;
-  max-height: 25rem;
-  border-radius: 30%;
+  object-fit: contain;
+  min-width: 20rem;
+  min-height: 20rem;
+  border-radius: 0;
 }
 .hero__image :hover {
   background-color: var(--color-fifth);
