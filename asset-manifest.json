@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/portafolio/static/css/main.ff8320af.chunk.css",
-    "main.js": "/portafolio/static/js/main.edf9e5ad.chunk.js",
-    "main.js.map": "/portafolio/static/js/main.edf9e5ad.chunk.js.map",
-    "runtime-main.js": "/portafolio/static/js/runtime-main.69a530d3.js",
-    "runtime-main.js.map": "/portafolio/static/js/runtime-main.69a530d3.js.map",
-    "static/js/2.57a98219.chunk.js": "/portafolio/static/js/2.57a98219.chunk.js",
-    "static/js/2.57a98219.chunk.js.map": "/portafolio/static/js/2.57a98219.chunk.js.map",
-    "static/js/3.01ed1515.chunk.js": "/portafolio/static/js/3.01ed1515.chunk.js",
-    "static/js/3.01ed1515.chunk.js.map": "/portafolio/static/js/3.01ed1515.chunk.js.map",
+    "main.css": "/portafolio/static/css/main.559d5986.chunk.css",
+    "main.js": "/portafolio/static/js/main.bb81423c.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.bb81423c.chunk.js.map",
+    "runtime-main.js": "/portafolio/static/js/runtime-main.26eaf93d.js",
+    "runtime-main.js.map": "/portafolio/static/js/runtime-main.26eaf93d.js.map",
+    "static/js/2.5c69f211.chunk.js": "/portafolio/static/js/2.5c69f211.chunk.js",
+    "static/js/2.5c69f211.chunk.js.map": "/portafolio/static/js/2.5c69f211.chunk.js.map",
+    "static/js/3.c6deab9e.chunk.js": "/portafolio/static/js/3.c6deab9e.chunk.js",
+    "static/js/3.c6deab9e.chunk.js.map": "/portafolio/static/js/3.c6deab9e.chunk.js.map",
     "index.html": "/portafolio/index.html",
-    "static/css/main.ff8320af.chunk.css.map": "/portafolio/static/css/main.ff8320af.chunk.css.map",
-    "static/js/2.57a98219.chunk.js.LICENSE.txt": "/portafolio/static/js/2.57a98219.chunk.js.LICENSE.txt",
+    "static/css/main.559d5986.chunk.css.map": "/portafolio/static/css/main.559d5986.chunk.css.map",
+    "static/js/2.5c69f211.chunk.js.LICENSE.txt": "/portafolio/static/js/2.5c69f211.chunk.js.LICENSE.txt",
     "static/media/Batatabit.9d0803b2.png": "/portafolio/static/media/Batatabit.9d0803b2.png",
     "static/media/GoogleClone.f97bc6a0.png": "/portafolio/static/media/GoogleClone.f97bc6a0.png",
     "static/media/fotodeperfil.ae42a8ff.jpg": "/portafolio/static/media/fotodeperfil.ae42a8ff.jpg",
+    "static/media/gastos.671ebd47.png": "/portafolio/static/media/gastos.671ebd47.png",
     "static/media/rickandmorty.eb26b49a.png": "/portafolio/static/media/rickandmorty.eb26b49a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.69a530d3.js",
-    "static/js/2.57a98219.chunk.js",
-    "static/css/main.ff8320af.chunk.css",
-    "static/js/main.edf9e5ad.chunk.js"
+    "static/js/runtime-main.26eaf93d.js",
+    "static/js/2.5c69f211.chunk.js",
+    "static/css/main.559d5986.chunk.css",
+    "static/js/main.bb81423c.chunk.js"
   ]
 }
