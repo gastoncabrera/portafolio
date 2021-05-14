@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import Portada from "./Portada";
 import reportWebVitals from "./reportWebVitals";
-import "./stylos/Movile.css";
+import "./stylos/style.css";
 
 ReactDOM.render(
   <React.StrictMode>

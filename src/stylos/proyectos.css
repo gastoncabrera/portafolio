@@ -1,0 +1,97 @@
+.proyect {
+  padding: 2rem;
+  overflow: hidden;
+  border: 1px solid transparent;
+  background-color: var(--color-eighth);
+  border: 1px solid var(--color-nineth);
+  border-radius: 3rem;
+  min-height: 50rem;
+  max-width: 44rem;
+  display: flex;
+  flex-flow: column;
+}
+.proyect img {
+  width: 100%;
+  min-height: 15rem;
+  max-height: 18rem;
+  border-radius: 5%;
+}
+.proyect img:hover {
+  transform: translate(-10px, -10px);
+  box-shadow: 10px 10px 10px var(--color-seventh);
+}
+.proyect img {
+  transition: transform 0.3s ease-out;
+}
+.proyect-title {
+  font-size: 2.6rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  color: var(--color-tenth);
+}
+.proyect-framework {
+  height: 3rem;
+  align-content: center;
+  display: flex;
+}
+.proyect-framework--many {
+  height: 10rem;
+  align-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+.proyect-framework span {
+  margin: 0 0.5rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 1.3rem;
+  padding: 0.3rem 0.9rem;
+  color: var(--color-second);
+  background-color: var(--color-tenth);
+}
+.proyect-framework--many span {
+  margin: 1rem 0.5rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 1.3rem;
+  padding: 0.3rem 0.9rem;
+  color: var(--color-second);
+  background-color: var(--color-tenth);
+}
+.proyect-description {
+  font-size: 1.5rem;
+}
+.proyect-button {
+  display: flex;
+  justify-content: space-around;
+}
+.proyect-button a {
+  color: var(--color-tenth);
+  width: 50%;
+  height: 65%;
+  font-size: 1.5rem;
+  padding: 1.2rem;
+  margin: 2rem 1rem 0 1rem;
+  border: 1px solid transparent;
+  background-color: var(--color-second);
+  border: 1px solid var(--color-nineth);
+  border-radius: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: transform 0.3s ease-out;
+}
+.proyect-button a:hover {
+  transform: translate(-10px, -10px);
+  box-shadow: 10px 10px 10px var(--color-seventh);
+}
+@media screen and (min-width: 900px) {
+  .proyect-framework--many span {
+    margin: 0 0.5rem;
+  }
+  .proyect-framework--many {
+    height: 5rem;
+  }
+}
